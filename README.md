@@ -4,7 +4,7 @@
 # event.ly
 
 event.ly is a map-based web application for finding and creating events to connect with people in your local community.
-Created in 10 days as a pair-programming project for the General Assembly Software Engineer Immersive Bootcamp.
+Created in 10 days as a pair-programming project for the General Assembly Software Engineering Immersive Bootcamp.
 
 [event.ly homepage](https://event-ly.netlify.app/)
 
